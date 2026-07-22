@@ -10,7 +10,3 @@ Welcome to my repository for professional development! Here, I document my learn
 | **Cisco** | Getting Started with Cisco Packet Tracer | <img src="./Cisco/Cisco-Verified-blue.svg" width="120" /> <br> *(Cert ID: 49afa879-6f19-4361-9db9-7af92c41913f)* | [📄 PDF Certificate](./Cisco/Getting_Started_with_Cisco_Packet_Tracer_certificate_a-jkel-yahoo-com_49afa879-6f19-4361-9db9-7af92c41913f.pdf) |
 
 ---
-
-## 📂 Repository Structure
-
-* Inside the respective subfolders within `badges_and_certificates/`, you will find the official PDF documents as well as my completed practical lab exercises (e.g., solved `.pka` files from Cisco Packet Tracer).
